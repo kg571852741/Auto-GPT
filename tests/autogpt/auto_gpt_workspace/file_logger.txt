@@ -1,0 +1,6 @@
+File Operation Logger write: /mnt/c/Users/Admin/vs-code-local/Auto-GPT/autogpt/auto_gpt_workspace/scraping_script.py #0d1891b8e2a5cf57165378d49fd9d255
+write: /mnt/c/Users/Admin/vs-code-local/Auto-GPT/autogpt/auto_gpt_workspace/scan_to_bim_deep_learning_papers.txt #7913f67b1bd4c87a9d1b53191427f77f
+write: /mnt/c/Users/Admin/vs-code-local/Auto-GPT/autogpt/auto_gpt_workspace/scan_to_bim_deep_learning_papers_sorted.txt #9341b514671e6fd45c8670b86bdf355a
+append: /mnt/c/Users/Admin/vs-code-local/Auto-GPT/autogpt/auto_gpt_workspace/scan_to_bim_lit_review_outline.txt #8d564e1d5d25b34b318dffad427b687b
+write: /mnt/c/Users/Admin/vs-code-local/Auto-GPT/autogpt/auto_gpt_workspace/scan_to_bim_deep_learning_papers_sorted.txt #b299a5f80293b8c60984afdef8abf237
+write: /mnt/c/Users/Admin/vs-code-local/Auto-GPT/autogpt/auto_gpt_workspace/scan_to_bim_review_paper.txt #91ed14759daee81631b0c539575e7e86

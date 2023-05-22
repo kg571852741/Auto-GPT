@@ -2,6 +2,7 @@ import functools
 import hashlib
 from pathlib import Path
 
+import autogpt
 import pytest
 from PIL import Image
 

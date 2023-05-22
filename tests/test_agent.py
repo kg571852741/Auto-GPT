@@ -1,11 +1,16 @@
 from unittest.mock import MagicMock
-
+import os
+os.chdir('autogpt')
+print (os.getcwd())
 import pytest
 
+#not modules named autogpt
 from autogpt.agent import Agent
-from autogpt.config import Config
+from autogpt.config import Config 
 
-
+def test_agent_init():
+    agent = Agent()
+    assert agent.config == Config()
 @pytest.fixture
 def agent():
     ai_name = "Test AI"

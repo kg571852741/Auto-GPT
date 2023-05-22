@@ -1,7 +1,6 @@
 import os
 import random
 import sys
-
 from dotenv import load_dotenv
 
 if "pytest" in sys.argv or "pytest" in sys.modules or os.getenv("CI"):

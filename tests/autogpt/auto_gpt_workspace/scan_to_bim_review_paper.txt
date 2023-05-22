@@ -1,0 +1,26 @@
+Introduction
+- Background of scan-to-BIM
+- Problem statement and research questions
+- Overview of literature review structure
+
+Literature Review
+- Overview of Scan-to-BIM
+- Methods for scan-to-BIM processing
+- Comparison of different scan-to-BIM approaches
+- Discussion of challenges and limitations
+
+Methodology
+- Approach to conducting a review of scan-to-BIM literature
+
+Results
+- Summary of findings from reviewed articles
+
+Discussion
+- Analysis of findings
+- Characterization of trends and open research questions for future study
+
+Conclusion
+- Summary of contributions and implications for future research
+
+References
+- List of cited references in alphabetical order

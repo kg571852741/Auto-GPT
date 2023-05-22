@@ -1,0 +1,25 @@
+Outline of the literature review section for Scan-to-BIM using deep learning algorithms:
+I. Introduction
+	A. Overview of the Scan-to-BIM field.
+	B. Brief background on deep learning techniques.
+
+II. Literature Review
+	A. First technique and its contributions to the field.
+	B. Second technique and its contributions to the field.
+	C. Third technique and its contributions to the field.
+	D. Comparison of results between techniques.
+
+III. Methodology
+	A. The chosen deep learning model for the study.
+	B. Description of the models and tools used.
+
+IV. Results and Discussion
+	A. Findings of the study.
+	B. Implications of the results for the field.
+
+V. Conclusion
+	A. Overview of the key findings.
+	B. Gaps in the field that need further research.
+	C. Suggestions for future research.
+
+VI. References
